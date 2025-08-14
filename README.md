@@ -90,8 +90,8 @@ This project is inspired by the **IBM Telco Churn Dataset** (available on Kaggle
 
 ## 🤝 Contact & Credits
 
-* **Developed by:** [Your Name]
-* **GitHub:** [Link to your GitHub Profile, e.g., `https://github.com/YourUsername`]
-* **LinkedIn:** [Link to your LinkedIn Profile, e.g., `https://www.linkedin.com/in/your-profile/`]
+* **Developed by:** [Janani D]
+* **GitHub:** https://share.google/lnCybexc45sAO5mlu
+* **LinkedIn:** https://www.linkedin.com/in/janani-d-157204361/
 
 ---
