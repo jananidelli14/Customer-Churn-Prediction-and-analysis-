@@ -66,7 +66,7 @@ To run this application on your local machine, follow these steps:
 This application is deployed on **Streamlit Community Cloud** and can be accessed directly via the following URL:
 
 **[Deployed App URL Here]**
-*(https://janani-customer-churn-app.streamlit.app/)*p
+*(https://janani-customer-churn-app.streamlit.app/)*
 
 ## 📝 Usage
 
